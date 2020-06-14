@@ -3,6 +3,64 @@
 
 // start content
 
+@import 'shared';
+@import 'reset';
+
 body, html{
-  font-size: 20px;
+  font-size: 14px;
+  background: $background;
+  color: $text;
+  font-family: 'OpenDyslexic';
+  font-weight: 400;
+}
+
+body{
+  margin: calc((100vh - 568px)/2) calc((100% - 320px)/2);
+  padding: $page_padding $page_padding 0 $page_padding;
+  box-sizing: border-box;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  line-height: $line_height;
+  &:after,
+  &:before{
+    content: '';
+    position: fixed;
+    height: calc((100vh - 568px)/2);
+    left: calc((100% - 320px)/2);
+    right: calc((100% - 320px)/2);
+    background: $background;
+  }
+  &:before{
+    top: 0;
+    border-bottom: 1px solid;
+  }
+  &:after{
+    bottom: 0;
+    border-top: 1px solid;
+  }
+}
+
+h1,
+p{
+  margin-bottom: 1em;
+}
+
+h2{
+  width: calc(100% + #{$page_padding * 2});
+  background-color: $h2_background;
+  margin-left: -$page_padding;
+  padding: $page_padding/2 $page_padding;
+  box-sizing: border-box;
+}
+
+a{
+  color: inherit;
+}
+ul{
+  margin: $page_padding 0;
+}
+
+li{
+  list-style: circle;
+  margin-left: $page_padding;
 }
