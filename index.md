@@ -12,16 +12,16 @@ Bailey Sheehan’s art practice focuses on developing new publications that inha
 Bailey has produced several art outposts that focus on digital dispersion and a performative embodiment of speculative philosophy. His current principal influences are video games, The Happy Hypocrite, Alain Badiou, and Speculative Realism, Lamar Jackson, and Rahul Shinde. 
 
 ## Live
-* last of us part 2 fan fiction
+* Squabbles (in progress)
 
 ## Blogs
 * [symbolismforadvanced](http://symbolismforadvanced.com/)
 * [thatbushisnotburning](http://thatbushisnotburning.net/)
-* Squabbles (in progress)
 
 ## Stand Alone Essays
 
 ## Fan Fiction
+* last of us part 2 fan fiction
 * cyberpunk 2077
 
 ## Stream
