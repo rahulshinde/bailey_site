@@ -25,7 +25,7 @@ layout: default
 * last of us part 2 fan fiction
 * cyberpunk 2077
 
-## About
+<hr>
 
 Bailey Sheehan’s art practice focuses on developing new publications that inhabit a speculative voice and address what he has termed as “responsible digital dispersion.” Art criticism, and cultural commentary are foremost productive. They do not represent art, or culture so much as they participate in these processes and help constitute them— the contemporary writer must behave accordingly.
 

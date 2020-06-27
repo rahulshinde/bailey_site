@@ -70,8 +70,17 @@ h3{
   margin-bottom: $page_padding;
   box-sizing: border-box;
   padding: $page_padding/2 $page_padding;
-  text-align: center;
+  text-align: left;
   font-size: $small_type;
+}
+
+hr{
+  box-shadow: none;
+  outline: none;
+  border-width:0;
+  height: 1px;
+  background-color: $text;
+  margin-bottom: $page_padding;
 }
 
 a{
