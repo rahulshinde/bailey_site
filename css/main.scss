@@ -57,7 +57,7 @@ h2{
   width: calc(100% + #{$page_padding * 2});
   background-color: $h2_background;
   margin-left: -$page_padding;
-  margin-bottom: $page_padding
+  margin-bottom: $page_padding;
   padding: $page_padding/2 $page_padding;
   box-sizing: border-box;
 }
