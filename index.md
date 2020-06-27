@@ -7,6 +7,9 @@ layout: default
 
 # baileysheehan94
 
+* fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri){target="_blank"}
+
+
 ![Image of Bailey](images/bailey.jpeg) 
 
 ## Live
