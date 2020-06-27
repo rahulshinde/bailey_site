@@ -9,6 +9,7 @@ layout: default
 
 * fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri)
 * email: baileysheehana@gmail.com
+* switch friend code: SW-2540-7163-2149
 
 
 ![Image of Bailey](images/bailey.jpeg) 
