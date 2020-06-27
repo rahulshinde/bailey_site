@@ -16,7 +16,7 @@ body, html{
 
 body{
   margin: calc((100vh - 568px)/2) calc((100% - 320px)/2);
-  padding: $page_padding $page_padding 0 $page_padding;
+  padding: $page_padding $page_padding 0.25rem $page_padding;
   box-sizing: border-box;
   border-left: 1px solid;
   border-right: 1px solid;
@@ -63,4 +63,33 @@ ul{
 li{
   list-style: circle;
   margin-left: $page_padding;
+}
+
+img{
+  display: block;
+  width: 100%;
+}
+
+@media (max-width: 767px){
+  body{
+    margin: $page_padding;
+    padding: $page_padding;
+    &:after,
+    &:before{
+      content: '';
+      position: fixed;
+      height: $page_padding;
+      left: $page_padding;
+      right: $page_padding;
+      background: $background;
+    }
+    &:before{
+      top: 0;
+      border-bottom: 1px solid;
+    }
+    &:after{
+      bottom: 0;
+      border-top: 1px solid;
+    }
+  }
 }
