@@ -7,12 +7,14 @@ layout: default
 
 # baileysheehan94
 
-* fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri){target="_blank"}
+* fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri)
+* email: baileysheehana@gmail.com
 
 
 ![Image of Bailey](images/bailey.jpeg) 
 
 ## Live
+### what i'm currently working on (updated regularly)
 * [Squabbles (in progress)](live/squabbles.html)
 
 ## Blogs

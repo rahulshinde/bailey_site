@@ -62,6 +62,18 @@ h2{
   box-sizing: border-box;
 }
 
+h3{
+  margin-top: -2 * $page_padding;
+  width: calc(100% + #{$page_padding * 2});
+  background-color: $h2_background;
+  margin-left: -$page_padding;
+  margin-bottom: $page_padding;
+  box-sizing: border-box;
+  padding: $page_padding/2 $page_padding;
+  text-align: center;
+  font-size: $small_type;
+}
+
 a{
   color: inherit;
 }
