@@ -17,9 +17,11 @@ Bailey has produced several art outposts that focus on digital dispersion and a 
 * [Squabbles (in progress)](live/squabbles.html)
 
 ## Blogs
-* [symbolismforadvanced](blog/)
+* [symbolismforadvanced](http://symbolismforadvanced.net/)
 * [thatbushisnotburning](http://thatbushisnotburning.net/)
 
 ## Fan Fiction
 * last of us part 2 fan fiction
 * cyberpunk 2077
+
+
