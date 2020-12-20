@@ -16,7 +16,7 @@ layout: default
 
 ## Live
 ### what i'm currently working on (updated regularly)
-* [Squabbles (in progress)](live/squabbles.html)
+* [MIT Video Application](live/mit.html)
 
 ## Blogs
 * [forever-mine](https://forever-mine.net/)
