@@ -18,10 +18,10 @@ layout: default
 ### what i'm currently working on (updated regularly)
 * [MIT Video Application](live/mit.html)
 
-## Blogs
+## Websites
 * [forever-mine](https://forever-mine.net/)
 * [internalsquabbles](https://int-squab.net/)
-* [symbolismforadvanced](http://symbolismforadvanced.net/)
+* [symbolismforadvanced](http://symbolismforadvanced.com/)
 * [thatbushisnotburning](http://thatbushisnotburning.net/)
 
 ## Fan Fiction
