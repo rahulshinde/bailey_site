@@ -8,8 +8,8 @@ layout: default
 # baileysheehan94
 
 * fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri)
-* email: baileysheehan@protonmail.com
 * switch friend code: SW-2540-7163-2149
+* baileysheehan@protonmail.com
 
 
 ![Image of Bailey](images/bailey.jpeg) 
