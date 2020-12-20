@@ -19,6 +19,8 @@ layout: default
 * [Squabbles (in progress)](live/squabbles.html)
 
 ## Blogs
+* [forever-mine](https://forever-mine.net/)
+* [internalsquabbles](https://int-squab.net/)
 * [symbolismforadvanced](http://symbolismforadvanced.net/)
 * [thatbushisnotburning](http://thatbushisnotburning.net/)
 
