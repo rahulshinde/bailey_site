@@ -9,14 +9,14 @@ layout: default
 
 * fanfiction.net: [Dedue-luvrxDimitri](https://www.fanfiction.net/~dedueluvrxdimitri)
 * switch friend code: SW-2540-7163-2149
-* baileysheehan@protonmail.com
+* baileyasheehan@protonmail.com
 
 
 ![Image of Bailey](images/bailey.jpeg) 
 
 ## Live
 ### what i'm currently working on (updated regularly)
-* [MIT Video Application](live/mit.html)
+* [Video Portfolio](live/video.html)
 
 ## Websites
 * [forever-mine](https://forever-mine.net/)
